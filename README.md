@@ -27,6 +27,7 @@ During training you will decide which colony you want to defend and become a par
 
 ### ADITIONAL FEATURES:
 Daily rewards for active users.
+
 Challange races for bonus tokens (Dogfight!).
 
 
@@ -34,13 +35,19 @@ Challange races for bonus tokens (Dogfight!).
 
 ### TEAM MEMBERS:
 Steven Fletcher
+
 Discord - WavemStudios#4323
+
 Twitter - https://twitter.com/WavemStudios
 
+
 Matthew Fletcher
+
 Discord - MattF#3311
 
+
 Michael Fletcher
+
 Discord - Miesyk#2985
 
 
