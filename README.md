@@ -15,7 +15,7 @@ Create Web3 frontend for game account status viewing, leader table and game mark
 Create Unreal Engine 5 Plugin to connect directly with the Cosmic Force DeFi Smart Modules. Make some of the standard game functionality available for 3rd party game developers to connect via Web3 and Unreal Engine 5.
 
 ### GAMEPLAY:
-Gameplay will include traditional shoot em up style, challenge stages, On land vehicle combat and 3rd person direct combat with the aliens.
+Gameplay will include traditional space shoot em up style, challenge stages, land vehicle race/combat and 3rd person direct combat with the aliens.
 
 Players will be enrolled as a Cadet and work your way up the ranks first with Basic Simulator Training then Advanced Training then to Missions and full combat.
 
