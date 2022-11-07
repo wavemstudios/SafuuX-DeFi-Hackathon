@@ -30,6 +30,11 @@ Daily rewards for active users.
 
 Challange races for bonus tokens (Dogfight!).
 
+Land ownership and building sub mining colonies.
+
+Decentralized Autonomous Organization (DAO) voting.
+
+In-game asset ownership with NFT blockchain tecnology.
 
 ---
 
