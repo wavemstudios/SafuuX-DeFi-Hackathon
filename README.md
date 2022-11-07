@@ -34,7 +34,10 @@ Discord - Miesyk#2985
 ### HOW COSMIC FORCE HELPS THE SAFUUX COMMUNITY:
 
 Every in-game transaction that writes to the blockchain will pay gas fees for SafuuX and the community.
+
 A percentage of every NFT sale will go to SafuuX to be used potentially to help onboard new applications bringing even more transactions and fees to the SafuuX community.
+
 NFT’s will be available to buy and sell within the SafuuX NFT marketplace bringing in fees to the SafuuX community.
-Cosmic Force aims to bring in new community members from outside SafuuX to become gamers and also ongoing SafuuX community members.
+
+Cosmic Force aims to be featured on the Epic Games Store that currently has around 200 million users bringing new gamers from outside to eventually become SafuuX community members.
 
