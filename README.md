@@ -32,9 +32,13 @@ Challange races for bonus tokens (Dogfight!).
 
 Land ownership and building sub mining colonies.
 
-Decentralized Autonomous Organization (DAO) voting.
+Decentralised Autonomous Organization (DAO) voting.
 
-In-game asset ownership with NFT blockchain tecnology.
+In-game asset ownership with NFT blockchain technology.
+
+Customisable spaceships to make them unique.
+
+Assets transferable via in-game or external SafuuX marketplace.
 
 ---
 
