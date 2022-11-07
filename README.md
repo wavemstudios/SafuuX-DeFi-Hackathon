@@ -14,7 +14,23 @@ Gameplay will include traditional shoot em up style, challenge stages, On land v
 ---
 
 ### TEAM MEMBERS:
+Steven Fletcher
+Discord - WavemStudios#4323
+Twitter - https://twitter.com/WavemStudios
+
+Matthew Fletcher
+Discord - MattF#3311
+
+Michael Fletcher
+Discord - Miesyk#2985
+
 
 ### DEMO VIDEO:
 
 ### HOW COSMIC FORCE HELPS SAFUUX COMMUNITY:
+
+Every in-game transaction that writes to the blockchain will pay gas fees for SafuuX and the community.
+A percentage of every NFT sale will go to SafuuX to be used potentially to help onboard new applications bringing even more transactions and fees to the SafuuX community.
+NFT’s will be available to buy and sell within the SafuuX NFT marketplace bringing in fees to the SafuuX community.
+Cosmic Force aims to bring in new community members from outside SafuuX to become gamers and also ongoing SafuuX community members.
+
