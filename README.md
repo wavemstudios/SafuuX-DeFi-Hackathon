@@ -12,7 +12,7 @@ To create a set of gaming contracts to be used within the Cosmic Force game with
 
 Create Web3 frontend for game account status viewing, leader table and game marketplace.
 
-Create Unreal Engine 5 Plugin to connect directly with the Cosmic Force DeFi Smart Modules. Make some of the standard game functionality available for 3rd party game developers to connect via Web3 and Unreal Engine 5.
+Create Unreal Engine 5 Web3 API plugin to connect directly with the Cosmic Force DeFi Smart Modules. Make some of the standard game functionality available for 3rd party game developers to connect via Web3 and Unreal Engine 5.
 
 ### GAMEPLAY:
 Gameplay will include traditional space shoot em up style, challenge stages, land vehicle race/combat and 3rd person direct combat with the aliens.
@@ -71,4 +71,6 @@ A percentage of every NFT sale will go to SafuuX to be used potentially to help 
 NFT’s will be available to buy and sell within the SafuuX NFT marketplace bringing in fees to the SafuuX community.
 
 Cosmic Force aims to be featured on the Epic Games Store that currently has around 200 million users bringing new gamers from outside to eventually become SafuuX community members.
+
+Smart contracts and modules created for Cosmic Force will be made public together will the Web3 API plugin created for Unreal Engine 5 so other game developers can easily build and create for the SafuuX blockchain.
 
