@@ -1,6 +1,6 @@
 # Cosmic Force Hackathon Entry
 
-## This fork is the start of the Cosmic Force repository.
+## This is the start of the Cosmic Force repository. NOTE additional information and links will be added before the 30th Nov.
 
 ### BACKGROUND:
 3 years ago WavemStudios created Cosmic Force, an 8-Bit Retro Shoot Em Up game for the Commodore 64 and PC emulators. Now we want to create a AAA release of the game with all the latest technology that also links into the blockchain.
